@@ -6,5 +6,5 @@
 - Import Libraries and read data from http://bit.ly/w-data .
 - Explored and visualised the data.
 - Looked for any correlation.
-- Used lm() for creating a linear model and predicted the mark using the model.
+- Used lm() for creating a linear model and predicted the score using the model.
 - Visualised the Trainset and Testset data.
